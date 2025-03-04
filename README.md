@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yash Sawant</h1>
 <h3 align="center">I am passionate about building machine learning projects and leveraging it using GenAI .</h3>
 
-- 🔭 I’m currently working on [CyberScan](https://github.com/SytherAsh/CyberScan_CyberSecurity_ChatBot)
+- 🔭 I’m currently working on [Spendwise](https://github.com/SytherAsh/SpendWise)
 
 - 🌱 I’m currently learning **GenAI Machine-Learning**
 
