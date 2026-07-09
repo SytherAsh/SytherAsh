@@ -1,18 +1,16 @@
 <div align="center">
 
-<br/>
-
-# Yash Sawant
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B10,50:6366F1,100:0B0B10&height=220&section=header&text=Yash%20Sawant&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20%C2%B7%20Backend&descAlignY=56&descSize=19&descColor=D4D4D8" alt="header"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=900&color=A1A1AA&center=true&vCenter=true&width=460&lines=Software+Engineer;Backend+Developer;AI+Engineer;Machine+Learning;Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2200&pause=900&color=6366F1&center=true&vCenter=true&width=480&lines=Software+Engineer;Backend+Developer;AI+Engineer;Machine+Learning+Engineer;Open+Source" alt="Typing SVG" />
 </a>
 
-<sub>SDE Intern @ Nomura · B.Tech CS (AI &amp; ML)</sub>
+<sub>SDE Intern @ Nomura &nbsp;·&nbsp; B.Tech CS (AI &amp; ML), SPIT Mumbai</sub>
 
 <br/><br/>
 
-<a href="https://SytherAsh.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>&nbsp;<a href="https://www.linkedin.com/in/yash-sawant-14b53826a/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>&nbsp;<a href="mailto:yashsawnt2703@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>&nbsp;<a href="https://leetcode.com/u/sytherash/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<a href="https://SytherAsh.github.io"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;<a href="https://www.linkedin.com/in/yash-sawant-14b53826a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="mailto:yashsawnt2703@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;<a href="https://leetcode.com/u/sytherash/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>&nbsp;<a href="https://www.kaggle.com/scytherash"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 
 <br/>
 
