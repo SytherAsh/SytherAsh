@@ -1,61 +1,90 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://SytherAsh.io)
+<h1 align="center">Yash Sawant</h1>
+<h3 align="center">Software Engineer — Full-Stack &amp; GenAI/ML</h3>
 
-<h1 align="center">Hi 👋, I'm Yash Sawant</h1>
-<h3 align="center">I am passionate about building machine learning projects and leveraging it using GenAI .</h3>
-
-- 🔭 I’m currently working on [Spendwise](https://github.com/SytherAsh/SpendWise)
-
-- 🌱 I’m currently learning **GenAI Machine-Learning**
-
-- 📫 How to reach me **sawash3072@gmail.com**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yash-sawant-14b53826a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-sawant-14b53826a/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/scytherash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/scytherash" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/sytherash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sytherash/" height="30" width="40" /></a>
-</p>
-<h3 align="left">⚡ Tech Stack</h3>
-
-### 🖥️ Programming Languages:
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/></a>
+<p align="center">
+  B.Tech CS (AI &amp; ML), Sardar Patel Institute of Technology · SDE Intern @ Nomura
 </p>
 
-### 🛠️ Frameworks & Libraries:
-<p align="left">
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://sytherash.github.io"><img src="https://img.shields.io/badge/Portfolio-sytherash.github.io-6366f1?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/yash-sawant-14b53826a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:yashsawnt2703@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/sytherash/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
-### ☁️ Cloud Hosting & Databases:
+---
+
+### About
+
+I build full-stack products and GenAI/ML pipelines end to end — from Android SMS parsers to RAG chatbots to AI video generators. Currently interning as a Software Development Engineer at **Nomura**, where I've worked on caching-platform migrations, high-throughput data pipelines, and internal developer tooling.
+
+Full write-up, resume, and all projects: **[sytherash.github.io](https://sytherash.github.io)**
+
+---
+
+### Featured Projects
+
+**[SpendWise](https://github.com/SytherAsh/SpendWise-v2)** — Kharcha Simplified
+A personal finance platform for Indian UPI users. Android app reads SMS/notifications across payment gateways, a FastAPI + Spring Boot backend processes and stores transactions, and a dashboard applies K-Means clustering on RFM features to segment spending behavior.
+`Kotlin` `React/Next.js` `Spring Boot` `FastAPI` `Supabase` `scikit-learn` `Docker`
+
+**[VidyAI](https://github.com/SytherAsh/vizuara-flow-studio)** — AI Educational Video Generator · [Live demo](https://vizuara-vidyai.vercel.app)
+Converts Wikipedia articles into narrated educational videos by chaining Groq (script), Gemini (scene images), Google TTS (narration), and MoviePy (assembly) — cutting video creation time from hours to minutes.
+`React` `TypeScript` `Flask` `Groq` `Gemini` `Supabase` `MoviePy` `Docker`
+
+**[CineMatch](https://github.com/SytherAsh/Movie_Recommender_Model)** — Movie Recommender · [Live demo](https://scytherashcinematch.streamlit.app/)
+Content-based recommendation engine using cosine similarity over vectorized movie metadata, deployed as an interactive Streamlit app.
+`Python` `scikit-learn` `Pandas` `Streamlit`
+
+---
+
+### Tech Stack
+
+**Languages**
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+**Frameworks & Libraries**
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Databases & Caching**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Cloud & DevOps**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### GitHub Stats
+
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/></a>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=SytherAsh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=SytherAsh&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="165"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SytherAsh&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-### 🛠️ Software & Tools:
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/></a>
-  <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="40" height="40"/></a>
+---
 
+<p align="center">
+  <sub>📫 Reach me at <a href="mailto:yashsawnt2703@gmail.com">yashsawnt2703@gmail.com</a> · Open to SDE / new grad opportunities</sub>
 </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SytherAsh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SytherAsh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SytherAsh&show_icons=true&locale=en&theme=tokyonight" alt="SytherAsh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SytherAsh&&theme=tokyonight" alt="SytherAsh" /></p>
-
-
