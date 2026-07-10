@@ -114,6 +114,10 @@ AI-driven security assessment bot — adaptive NLP questioning, RAG over complia
 <br/>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/SytherAsh/SpendWise-v2/pull/2) in [SytherAsh/SpendWise-v2](https://github.com/SytherAsh/SpendWise-v2)
+2. 💪 Opened PR [#2](https://github.com/SytherAsh/SpendWise-v2/pull/2) in [SytherAsh/SpendWise-v2](https://github.com/SytherAsh/SpendWise-v2)
+3. 🎉 Merged PR [#1](https://github.com/SytherAsh/SpendWise-v2/pull/1) in [SytherAsh/SpendWise-v2](https://github.com/SytherAsh/SpendWise-v2)
+4. 💪 Opened PR [#1](https://github.com/SytherAsh/SpendWise-v2/pull/1) in [SytherAsh/SpendWise-v2](https://github.com/SytherAsh/SpendWise-v2)
 <!--END_SECTION:activity-->
 
 <br/>
